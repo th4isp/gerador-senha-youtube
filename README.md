@@ -33,17 +33,10 @@ git clone https://github.com/th4isp/gerador-senha-youtube.git
 cd gerador-senha-youtube
 ```
 
-## Visualização
-
-Veja o portfólio ao vivo [aqui](https://th4isp.github.io/gerador-senha-youtube).
-
 ## Contribuição
 
 Sinta-se à vontade para contribuir com o projeto! Se você encontrar algum problema ou tiver sugestões de melhorias, por favor, abra uma **issue** ou envie um **pull request**.
 
-## Licença
-
-Este projeto é licenciado sob a licença [MIT](LICENSE).
 
 ---
 
